@@ -5,6 +5,6 @@ Goals are to:
 2. Visualize activation maps across layers corresponding to expected classification result.
 3. Recreate a published method that enhances either performance (if the vanilla CNN is not already at 100% accuracy), training time, or latency.
 
-> **Tags**: CNN, Image processing, Activation maps, 
+> **Tags**: CNN, Image processing, Activation maps, Le-NET, AlexNet, MNIST, CIFAR10
 
 > **Package Tags**: PyTorch, Numpy, Torchvision, Matplotlib
